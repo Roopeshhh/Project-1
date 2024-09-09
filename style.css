@@ -194,6 +194,15 @@ footer {
     width: 70%;
     height: 70%;
   }
+  .grid-3-cols {
+    column-gap: 30px;
+    border-left: 20px;
+    border-right: 20px;
+  }
+  .testimonial-section {
+    margin-right: auto;
+    margin-left: auto;
+  }
 }
 
 /* @media (max-width: 475px) {
